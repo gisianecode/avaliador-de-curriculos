@@ -59,10 +59,9 @@ avaliador-de-curriculos/
 
 ▶️ Como Executar
 
-1. Baixe ou clone o projeto.
-2. Abra o arquivo index.html em qualquer navegador.
-3. Cole o currículo.
-4. Clique em “Analisar Currículo”.
+1. Acesse: https://gisianecode.github.io/avaliador-de-curriculos/
+2. Cole o currículo.
+34. Clique em “Analisar Currículo”.
 
 🎯 Objetivo
 
